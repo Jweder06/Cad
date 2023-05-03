@@ -10,7 +10,7 @@ Documentation for all Q1 and Q2 cad assignments
  In this assignment we were assigned as student 1 or student 2 and we would do the task parallel accordingly as one student would work on one part of the "spinner" and another would work on another.
  
 ### Evidence  
-<img src = "images/Screen Shot 2022-10-25 at 7.08.50 PM.png" width =400>
+![image](https://user-images.githubusercontent.com/112961442/235829019-756c0f35-da00-440e-b8f5-a90bca6ff79a.png)
 
 
 [onshape](https://cvilleschools.onshape.com/documents/6ed363a643f7bb7816700743/w/61dc39c19db037a21be17ff1/e/20cf19575f84c35c338cf0ad?renderMode=0&uiState=6451d44cc3d2ce14e194e231)
@@ -21,12 +21,12 @@ This assignment was an excellent beginning to CAD in our first quarter. It force
 ## Swing arm 
 For this assignment, we were given several Blueprint style drawings and were told to make parts from it that would then later be checked for the correct Mass.
 
-<img src="images/Screen Shot 2022-10-25 at 7.26.51 PM.png" width =300>
+![image](https://user-images.githubusercontent.com/112961442/235829044-674c823d-5f41-4828-badc-8a74b2e1772a.png)
 
 Drawings for swing arm.
 
 ### Evidence
-<img src="images/Screen Shot 2022-10-25 at 7.32.47 PM.png" width =400>
+![image](https://user-images.githubusercontent.com/112961442/235829060-5e077a5a-a693-4193-9aaf-981f847ace6f.png)
 
 [onshape](https://cvilleschools.onshape.com/documents/908554ca8fd3c74330a26cec/w/788301db99128a2053ec95cd/e/02a01906f6e02e394f5bcdb2?renderMode=0&uiState=6451d63f3b40bc17658b04d7) 
 ### Reflection
@@ -38,8 +38,8 @@ This assignment with similar to the previous one except that it involved multipl
 
 ### Evidence
 
-<img src="images/Screen Shot 2022-10-25 at 7.44.12 PM.png" width =200>  
-<img src="images/Screen Shot 2022-10-25 at 7.43.53 PM.png" width =200>
+![image](https://user-images.githubusercontent.com/112961442/235829076-5834a6b5-40e1-4ab5-8a6c-b048f1123091.png)
+![image](https://user-images.githubusercontent.com/112961442/235829085-24a99557-ee1f-4730-99b9-987546270764.png)
 
 [onshape](https://cvilleschools.onshape.com/documents/a1e7e791f765cf834d2d804a/w/e497fadebd7634228d991933/e/91659f01f77af15d0347464f?renderMode=0&uiState=6451d74ac3d2ce14e194e308)
 
