@@ -1,28 +1,47 @@
-# CPyProjectTemplate
-Put a description for your project here!
-This repo is a template VS code project for CircuitPython projects that automatically uploads your code to the board when you press F5. Requires F5Anything extension.
-## Use
-### Every new project:
-1. Make a GitHub account if you don't have one with your normal school credentials and sign into it.
-2. Click the big green Use This Template button at the top of this page.
-3. Name the new repository something appropriate to the purpose of your project (Your first one should probably be named `CircuitPython`).
-4. Hit "Create repository from template." (The default settings should be fine.)
-5. Open VS Code on your machine. Click Clone Repository.
-6. Paste in the link to the new repository you've just created from the template and hit enter.
-7. For the location, select the "STUDENT" drive if you have it or the document folder if you don't.
-8. Hit "Open Cloned Directory."
-9. Install the reccomended extensions when you get that popup in the lower right corner.
-### To commit from VS Code:
-1. Go to the little branch icon in the left bar of VS Code.
-2. Click the + icon next  to the files you want to commit.
-3. Write a message that descibes your changes in the "Message" box and hit commit.
-4. If you get an error about user.name and user.email, see the next section.
-5. Click the "Sync changes" button.
-### If you get an error about user.name and user.email
-1. Open Git Bash from the Windows Search Bar.
-2. FIlling in your actual information, run the following commands one line at a time. The paste shortcut is `Shift+Insert` or you can right click then hit paste. Spelling must match exactly:
-```
-git config --global user.name YOURUSERNAME
-git config --global user.email YOURSCHOOLEMAIL
-```
-3. Return to step 3 of the previous section.
+# Onshape
+Documentation for all Q1 and Q2 cad assignments 
+
+## Table of contents
+* [Teamwork](#teamwork)
+* [Swing Arm](#swing-arm)
+* [Multipart](#Multi-Part-dsign)
+***
+## Teamwork
+ In this assignment we were assigned as student 1 or student 2 and we would do the task parallel accordingly as one student would work on one part of the "spinner" and another would work on another.
+ 
+### Evidence  
+<img src = "images/Screen Shot 2022-10-25 at 7.08.50 PM.png" width =400>
+
+
+[onshape](https://cvilleschools.onshape.com/documents/6ed363a643f7bb7816700743/w/61dc39c19db037a21be17ff1/e/20cf19575f84c35c338cf0ad?renderMode=0&uiState=6451d44cc3d2ce14e194e231)
+
+### Reflection
+This assignment was an excellent beginning to CAD in our first quarter. It forced us to work with a partner and how to use Onshape with someone else rather than by ourselves. I needed to get used to working with others in Onshape because I tend to remember how a part was made and use that knowledge to tell how the future part will be constrained. If someone else makes that part I will have to backtrack and look at their work to use that skill.
+***
+## Swing arm 
+For this assignment, we were given several Blueprint style drawings and were told to make parts from it that would then later be checked for the correct Mass.
+
+<img src="images/Screen Shot 2022-10-25 at 7.26.51 PM.png" width =300>
+
+Drawings for swing arm.
+
+### Evidence
+<img src="images/Screen Shot 2022-10-25 at 7.32.47 PM.png" width =400>
+
+[onshape](https://cvilleschools.onshape.com/documents/908554ca8fd3c74330a26cec/w/788301db99128a2053ec95cd/e/02a01906f6e02e394f5bcdb2?renderMode=0&uiState=6451d63f3b40bc17658b04d7) 
+### Reflection
+This assignment reintroduced us to CADing from a drawing and was made to help us on our Onshape exam. For me, this is relatively easy except for getting every small detail correct, or else the mass will be a few grams off. The hardest part for me was hunting for small imperfections and correcting them so I could get the perfect mass.
+
+***
+## Multi Part design
+This assignment with similar to the previous one except that it involved multiple parts not just a single part Studio and that changes would have to affect multiple Parts dynamically not individualy.
+
+### Evidence
+
+<img src="images/Screen Shot 2022-10-25 at 7.44.12 PM.png" width =200>  
+<img src="images/Screen Shot 2022-10-25 at 7.43.53 PM.png" width =200>
+
+[onshape](https://cvilleschools.onshape.com/documents/a1e7e791f765cf834d2d804a/w/e497fadebd7634228d991933/e/91659f01f77af15d0347464f?renderMode=0&uiState=6451d74ac3d2ce14e194e308)
+
+### Reflection
+This one was just as difficult as a previous one but for different reasons.  The multipart provided the challenge that multiple  Parts affected each other but made it easier to figure it out single gram differences and and mistakes in individual Parts because each part is separate and not mesured as one. It was also important to remember to change the part matirial not just the dementions. 
