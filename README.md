@@ -40,6 +40,7 @@ This assignment with similar to the previous one except that it involved multipl
 
 ![image](https://user-images.githubusercontent.com/112961442/235829076-5834a6b5-40e1-4ab5-8a6c-b048f1123091.png)
 ![image](https://user-images.githubusercontent.com/112961442/235829085-24a99557-ee1f-4730-99b9-987546270764.png)
+Credit for images goes to Paul Weder
 
 [onshape](https://cvilleschools.onshape.com/documents/a1e7e791f765cf834d2d804a/w/e497fadebd7634228d991933/e/91659f01f77af15d0347464f?renderMode=0&uiState=6451d74ac3d2ce14e194e308)
 
