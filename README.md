@@ -1,11 +1,6 @@
 # Onshape
 Documentation for all Q1 and Q2 cad assignments 
 
-## Table of contents
-* [Teamwork](#teamwork)
-* [Swing Arm](#swing-arm)
-* [Multipart](#Multi-Part-dsign)
-***
 ## Teamwork/Pull Copter
  In this assignment we were assigned as student 1 or student 2 and we would do the task parallel accordingly as one student would work on one part of the "spinner" and another would work on another.
  
