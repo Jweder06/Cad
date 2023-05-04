@@ -57,4 +57,4 @@ This was by far the easiest assignment we only had to constrain a few parts with
 ![image](https://user-images.githubusercontent.com/112961442/235993837-bb45ccf2-c52c-45bb-9a60-0d7a386393d7.png)
 
 ### Reflection
-The test itself was relatively easy and I finished with 88% accuracy and finished about an hour earlier than most other people. The test prep most definitely helped and contributed to my success as well as almost 500 hours in Onshape.
+The test itself was relatively easy and I finished with 88% accuracy and finished about an hour earlier than most other people. The test prep most definitely helped and contributed to my success as well as almost 500 hours in Onshape. I spend most of my tim in onshape for my time in engeeneering class and am pretty a experenced cader, making a 3d model from a bueprit was a new thing but I quicky was able to adapt my previous skills for the new task.
